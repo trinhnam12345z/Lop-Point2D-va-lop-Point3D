@@ -1,0 +1,15 @@
+E:\BT C#\Lop Point2D va lop Point3D\Lop Point2D va lop Point3D\bin\Debug\netcoreapp3.1\Lop Point2D va lop Point3D.exe
+E:\BT C#\Lop Point2D va lop Point3D\Lop Point2D va lop Point3D\bin\Debug\netcoreapp3.1\Lop Point2D va lop Point3D.deps.json
+E:\BT C#\Lop Point2D va lop Point3D\Lop Point2D va lop Point3D\bin\Debug\netcoreapp3.1\Lop Point2D va lop Point3D.runtimeconfig.json
+E:\BT C#\Lop Point2D va lop Point3D\Lop Point2D va lop Point3D\bin\Debug\netcoreapp3.1\Lop Point2D va lop Point3D.runtimeconfig.dev.json
+E:\BT C#\Lop Point2D va lop Point3D\Lop Point2D va lop Point3D\bin\Debug\netcoreapp3.1\Lop Point2D va lop Point3D.dll
+E:\BT C#\Lop Point2D va lop Point3D\Lop Point2D va lop Point3D\bin\Debug\netcoreapp3.1\Lop Point2D va lop Point3D.pdb
+E:\BT C#\Lop Point2D va lop Point3D\Lop Point2D va lop Point3D\obj\Debug\netcoreapp3.1\Lop Point2D va lop Point3D.csprojAssemblyReference.cache
+E:\BT C#\Lop Point2D va lop Point3D\Lop Point2D va lop Point3D\obj\Debug\netcoreapp3.1\Lop Point2D va lop Point3D.AssemblyInfoInputs.cache
+E:\BT C#\Lop Point2D va lop Point3D\Lop Point2D va lop Point3D\obj\Debug\netcoreapp3.1\Lop Point2D va lop Point3D.AssemblyInfo.cs
+E:\BT C#\Lop Point2D va lop Point3D\Lop Point2D va lop Point3D\obj\Debug\netcoreapp3.1\Lop Point2D va lop Point3D.dll
+E:\BT C#\Lop Point2D va lop Point3D\Lop Point2D va lop Point3D\obj\Debug\netcoreapp3.1\Lop Point2D va lop Point3D.pdb
+E:\BT C#\Lop Point2D va lop Point3D\Lop Point2D va lop Point3D\obj\Debug\netcoreapp3.1\Lop Point2D va lop Point3D.genruntimeconfig.cache
+E:\BT C#\Lop Point2D va lop Point3D\Lop Point2D va lop Point3D\bin\Debug\netcoreapp3.1\OpenXmlPowerTools.dll
+E:\BT C#\Lop Point2D va lop Point3D\Lop Point2D va lop Point3D\obj\Debug\netcoreapp3.1\Lop Point2D va lop Point3D.csproj.CoreCompileInputs.cache
+E:\BT C#\Lop Point2D va lop Point3D\Lop Point2D va lop Point3D\obj\Debug\netcoreapp3.1\Lop Point2D va lop Point3D.csproj.CopyComplete

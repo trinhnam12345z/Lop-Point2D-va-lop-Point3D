@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lop Point2D va lop Point3D", "Lop Point2D va lop Point3D\Lop Point2D va lop Point3D.csproj", "{B11BA420-D586-4700-9711-C2BE97FEC887}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B11BA420-D586-4700-9711-C2BE97FEC887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11BA420-D586-4700-9711-C2BE97FEC887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B11BA420-D586-4700-9711-C2BE97FEC887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B11BA420-D586-4700-9711-C2BE97FEC887}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EB7E303-BDA8-4FB0-AC73-E4261F1FF252}
+	EndGlobalSection
+EndGlobal
