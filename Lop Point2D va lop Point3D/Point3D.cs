@@ -37,7 +37,7 @@ namespace Lop_Point2D_va_lop_Point3D
         }
         public override string ToString()
         {
-            return "X = " + GetX() + " Y = " + GetY() + " Z = "+GetZ()+" (X,Y) = " + string.Join(',', GetXYZ());
+            return "X = " + GetX() + " Y = " + GetY() + " Z = "+GetZ()+" (X,Y,Z) = " + string.Join(',', GetXYZ());
         }
     }
 }
